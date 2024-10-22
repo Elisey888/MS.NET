@@ -135,3 +135,5 @@
 - **Текст отзыва** (Content)
 - **Пользователь** (UserID)
 - **Рецепт** (RecipeID)
+  ![База данных](https://github.com/user-attachments/assets/884af12c-7613-4a5a-bc95-058ec2c3009c)
+
